@@ -1,0 +1,244 @@
+[{
+  "_id": {
+    "$oid": "61b5015b8b4fd57fe9fd7d6c"
+  },
+  "name": "MyProduct",
+  "description": "MyDescription",
+  "price": 1000,
+  "inStock": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b5017d8b4fd57fe9fd7d6e"
+  },
+  "name": "MyProduct2",
+  "description": "MyDescription2",
+  "price": 2000,
+  "inStock": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b501df8b4fd57fe9fd7d71"
+  },
+  "name": "My test product",
+  "description": "Some stuff",
+  "price": 40000,
+  "inStock": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b5023e71f6d12995dc99ed"
+  },
+  "name": "MyProduct3",
+  "description": "MyDescription3",
+  "price": 2000,
+  "inStock": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b51953707cfb08415a72e0"
+  },
+  "name": "My test product",
+  "description": "Some stuff",
+  "price": 40000,
+  "inStock": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b51a0fb6a6dc5a70d3ec0e"
+  },
+  "name": "New name",
+  "description": "Other description",
+  "price": 50000,
+  "inStock": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b51a27b6a6dc5a70d3ec14"
+  },
+  "name": "New name",
+  "description": "Other description",
+  "price": 50000,
+  "inStock": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621a54847d7311b054956be4"
+  },
+  "name": "My test product",
+  "description": "Some stuff",
+  "price": 40000,
+  "inStock": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621a559dd9f935f866dcbe5c"
+  },
+  "name": "My test product",
+  "description": "Some stuff",
+  "price": 40000,
+  "inStock": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621a55bdd9f935f866dcbe60"
+  },
+  "name": "My test product",
+  "description": "Some stuff",
+  "price": 40000,
+  "inStock": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621a55bed9f935f866dcbe64"
+  },
+  "name": "My test product",
+  "description": "Some stuff",
+  "price": 40000,
+  "inStock": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621a561077b0a549de4b2857"
+  },
+  "name": "My test product",
+  "description": "Some stuff",
+  "price": 40000,
+  "inStock": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621a563177b0a549de4b285b"
+  },
+  "name": "My test product",
+  "description": "Some stuff",
+  "price": 40000,
+  "inStock": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621a56a477b0a549de4b285f"
+  },
+  "name": "My test product",
+  "description": "Some stuff",
+  "price": 40000,
+  "inStock": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621a56a577b0a549de4b2863"
+  },
+  "name": "My test product",
+  "description": "Some stuff",
+  "price": 40000,
+  "inStock": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621a5715a188d808c5f43e63"
+  },
+  "name": "My test product",
+  "description": "Some stuff",
+  "price": 40000,
+  "inStock": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621a5a63a188d808c5f43e65"
+  },
+  "name": "My test product",
+  "description": "Some stuff",
+  "price": 40000,
+  "inStock": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621a5a64a188d808c5f43e67"
+  },
+  "name": "My test product",
+  "description": "Some stuff",
+  "price": 40000,
+  "inStock": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621a5a8aa188d808c5f43e69"
+  },
+  "name": "My test product",
+  "description": "Some stuff",
+  "price": 40000,
+  "inStock": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621a5a8ba188d808c5f43e6b"
+  },
+  "name": "My test product",
+  "description": "Some stuff",
+  "price": 40000,
+  "inStock": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621a5a8ba188d808c5f43e6d"
+  },
+  "name": "My test product",
+  "description": "Some stuff",
+  "price": 40000,
+  "inStock": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621a5adb53de61d70130fba2"
+  },
+  "name": "New name",
+  "description": "Other description",
+  "price": 50000,
+  "inStock": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621a5af253de61d70130fba8"
+  },
+  "name": "New name",
+  "description": "Other description",
+  "price": 50000,
+  "inStock": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621a5ba54acfd3fd2e1c2f97"
+  },
+  "name": "My test product",
+  "description": "Some stuff",
+  "price": 40000,
+  "inStock": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621a5bb8d7a636a7040b0ac4"
+  },
+  "name": "My test product",
+  "description": "Some stuff",
+  "price": 40000,
+  "inStock": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621a5bb9d7a636a7040b0ac7"
+  },
+  "name": "My test product",
+  "description": "Some stuff",
+  "price": 40000,
+  "inStock": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621a5bca5f67e5a3d6508759"
+  },
+  "name": "New name",
+  "description": "Other description",
+  "price": 50000,
+  "inStock": false,
+  "__v": 0
+}]

@@ -1,0 +1,17 @@
+{
+  "name": "NodeJS_API_CRUD_Produits",
+  "version": "1.0.0",
+  "description": "Code de API fonctionnel pour se connecter à une base de données, pour effectuer de différentes opérations CRUD. Une API basique pour une boutique en ligne qui permet de créer, lire, modifier et supprimer des produits(Product).",
+  "author": "Novikova Anna",
+  "main": "index.js",
+  "scripts": {
+    "open": "start http://localhost:3000/api/products",
+    "start": "npm run open && node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.3"
+  }
+}
